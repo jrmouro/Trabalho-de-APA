@@ -1,0 +1,249 @@
+Cenario2: Comparação do Quicksort:Insert - Escolha de Pivô
+Amostragem: 500
+
+Cemente: 1
+insercao:10-random / reg: 500 / t(s): 0.000074
+insercao:10-media: / reg: 500 / t(s): 0.000057
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000060
+insercao:10-mediana: / reg: 500 / t(s): 0.000117
+
+Cemente: 2
+insercao:10-random / reg: 500 / t(s): 0.000082
+insercao:10-media: / reg: 500 / t(s): 0.000066
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000057
+insercao:10-mediana: / reg: 500 / t(s): 0.000133
+
+Cemente: 3
+insercao:10-random / reg: 500 / t(s): 0.000071
+insercao:10-media: / reg: 500 / t(s): 0.000057
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000061
+insercao:10-mediana: / reg: 500 / t(s): 0.000115
+
+Cemente: 4
+insercao:10-random / reg: 500 / t(s): 0.000070
+insercao:10-media: / reg: 500 / t(s): 0.000056
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000059
+insercao:10-mediana: / reg: 500 / t(s): 0.000132
+
+Cemente: 5
+insercao:10-random / reg: 500 / t(s): 0.000070
+insercao:10-media: / reg: 500 / t(s): 0.000055
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000062
+insercao:10-mediana: / reg: 500 / t(s): 0.000119
+
+Cemente: 6
+insercao:10-random / reg: 500 / t(s): 0.000077
+insercao:10-media: / reg: 500 / t(s): 0.000055
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000060
+insercao:10-mediana: / reg: 500 / t(s): 0.000122
+
+Cemente: 7
+insercao:10-random / reg: 500 / t(s): 0.000071
+insercao:10-media: / reg: 500 / t(s): 0.000056
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000058
+insercao:10-mediana: / reg: 500 / t(s): 0.000121
+
+Cemente: 8
+insercao:10-random / reg: 500 / t(s): 0.000070
+insercao:10-media: / reg: 500 / t(s): 0.000057
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000059
+insercao:10-mediana: / reg: 500 / t(s): 0.000115
+
+Cemente: 9
+insercao:10-random / reg: 500 / t(s): 0.000073
+insercao:10-media: / reg: 500 / t(s): 0.000056
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000060
+insercao:10-mediana: / reg: 500 / t(s): 0.000142
+
+Cemente: 10
+insercao:10-random / reg: 500 / t(s): 0.000069
+insercao:10-media: / reg: 500 / t(s): 0.000056
+insercao:10-achaPivo: / reg: 500 / t(s): 0.000060
+insercao:10-mediana: / reg: 500 / t(s): 0.000124
+
+Amostragem: 5000
+
+Cemente: 1
+insercao:10-random / reg: 5000 / t(s): 0.000823
+insercao:10-media: / reg: 5000 / t(s): 0.000738
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000805
+insercao:10-mediana: / reg: 5000 / t(s): 0.002067
+
+Cemente: 2
+insercao:10-random / reg: 5000 / t(s): 0.000875
+insercao:10-media: / reg: 5000 / t(s): 0.000767
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000827
+insercao:10-mediana: / reg: 5000 / t(s): 0.001802
+
+Cemente: 3
+insercao:10-random / reg: 5000 / t(s): 0.000824
+insercao:10-media: / reg: 5000 / t(s): 0.000737
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000786
+insercao:10-mediana: / reg: 5000 / t(s): 0.001889
+
+Cemente: 4
+insercao:10-random / reg: 5000 / t(s): 0.000814
+insercao:10-media: / reg: 5000 / t(s): 0.000746
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000799
+insercao:10-mediana: / reg: 5000 / t(s): 0.001925
+
+Cemente: 5
+insercao:10-random / reg: 5000 / t(s): 0.000883
+insercao:10-media: / reg: 5000 / t(s): 0.000772
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000819
+insercao:10-mediana: / reg: 5000 / t(s): 0.001983
+
+Cemente: 6
+insercao:10-random / reg: 5000 / t(s): 0.000844
+insercao:10-media: / reg: 5000 / t(s): 0.000772
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000852
+insercao:10-mediana: / reg: 5000 / t(s): 0.002424
+
+Cemente: 7
+insercao:10-random / reg: 5000 / t(s): 0.000824
+insercao:10-media: / reg: 5000 / t(s): 0.000764
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000825
+insercao:10-mediana: / reg: 5000 / t(s): 0.001841
+
+Cemente: 8
+insercao:10-random / reg: 5000 / t(s): 0.000829
+insercao:10-media: / reg: 5000 / t(s): 0.000758
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000828
+insercao:10-mediana: / reg: 5000 / t(s): 0.002230
+
+Cemente: 9
+insercao:10-random / reg: 5000 / t(s): 0.000834
+insercao:10-media: / reg: 5000 / t(s): 0.000763
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000819
+insercao:10-mediana: / reg: 5000 / t(s): 0.001923
+
+Cemente: 10
+insercao:10-random / reg: 5000 / t(s): 0.000856
+insercao:10-media: / reg: 5000 / t(s): 0.000767
+insercao:10-achaPivo: / reg: 5000 / t(s): 0.000823
+insercao:10-mediana: / reg: 5000 / t(s): 0.002206
+
+Amostragem: 50000
+
+Cemente: 1
+insercao:10-random / reg: 50000 / t(s): 0.010407
+insercao:10-media: / reg: 50000 / t(s): 0.009439
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010003
+insercao:10-mediana: / reg: 50000 / t(s): 0.037895
+
+Cemente: 2
+insercao:10-random / reg: 50000 / t(s): 0.010357
+insercao:10-media: / reg: 50000 / t(s): 0.009465
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010316
+insercao:10-mediana: / reg: 50000 / t(s): 0.036219
+
+Cemente: 3
+insercao:10-random / reg: 50000 / t(s): 0.010200
+insercao:10-media: / reg: 50000 / t(s): 0.009498
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010230
+insercao:10-mediana: / reg: 50000 / t(s): 0.037545
+
+Cemente: 4
+insercao:10-random / reg: 50000 / t(s): 0.010490
+insercao:10-media: / reg: 50000 / t(s): 0.009427
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010199
+insercao:10-mediana: / reg: 50000 / t(s): 0.038634
+
+Cemente: 5
+insercao:10-random / reg: 50000 / t(s): 0.010454
+insercao:10-media: / reg: 50000 / t(s): 0.009527
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010356
+insercao:10-mediana: / reg: 50000 / t(s): 0.032945
+
+Cemente: 6
+insercao:10-random / reg: 50000 / t(s): 0.010428
+insercao:10-media: / reg: 50000 / t(s): 0.009575
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010412
+insercao:10-mediana: / reg: 50000 / t(s): 0.037717
+
+Cemente: 7
+insercao:10-random / reg: 50000 / t(s): 0.010379
+insercao:10-media: / reg: 50000 / t(s): 0.009513
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010330
+insercao:10-mediana: / reg: 50000 / t(s): 0.047970
+
+Cemente: 8
+insercao:10-random / reg: 50000 / t(s): 0.010361
+insercao:10-media: / reg: 50000 / t(s): 0.009448
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010237
+insercao:10-mediana: / reg: 50000 / t(s): 0.040552
+
+Cemente: 9
+insercao:10-random / reg: 50000 / t(s): 0.010113
+insercao:10-media: / reg: 50000 / t(s): 0.009553
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010194
+insercao:10-mediana: / reg: 50000 / t(s): 0.035391
+
+Cemente: 10
+insercao:10-random / reg: 50000 / t(s): 0.010176
+insercao:10-media: / reg: 50000 / t(s): 0.009363
+insercao:10-achaPivo: / reg: 50000 / t(s): 0.010225
+insercao:10-mediana: / reg: 50000 / t(s): 0.044766
+
+Amostragem: 100000
+
+Cemente: 1
+insercao:10-random / reg: 100000 / t(s): 0.021623
+insercao:10-media: / reg: 100000 / t(s): 0.020075
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021656
+insercao:10-mediana: / reg: 100000 / t(s): 0.092337
+
+Cemente: 2
+insercao:10-random / reg: 100000 / t(s): 0.021344
+insercao:10-media: / reg: 100000 / t(s): 0.019865
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.022061
+insercao:10-mediana: / reg: 100000 / t(s): 0.095095
+
+Cemente: 3
+insercao:10-random / reg: 100000 / t(s): 0.021829
+insercao:10-media: / reg: 100000 / t(s): 0.020198
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021607
+insercao:10-mediana: / reg: 100000 / t(s): 0.099853
+
+Cemente: 4
+insercao:10-random / reg: 100000 / t(s): 0.021330
+insercao:10-media: / reg: 100000 / t(s): 0.020099
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021270
+insercao:10-mediana: / reg: 100000 / t(s): 0.091858
+
+Cemente: 5
+insercao:10-random / reg: 100000 / t(s): 0.022083
+insercao:10-media: / reg: 100000 / t(s): 0.019569
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021858
+insercao:10-mediana: / reg: 100000 / t(s): 0.093876
+
+Cemente: 6
+insercao:10-random / reg: 100000 / t(s): 0.021440
+insercao:10-media: / reg: 100000 / t(s): 0.020127
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021335
+insercao:10-mediana: / reg: 100000 / t(s): 0.076474
+
+Cemente: 7
+insercao:10-random / reg: 100000 / t(s): 0.021687
+insercao:10-media: / reg: 100000 / t(s): 0.020062
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021426
+insercao:10-mediana: / reg: 100000 / t(s): 0.085665
+
+Cemente: 8
+insercao:10-random / reg: 100000 / t(s): 0.021387
+insercao:10-media: / reg: 100000 / t(s): 0.019401
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021505
+insercao:10-mediana: / reg: 100000 / t(s): 0.089139
+
+Cemente: 9
+insercao:10-random / reg: 100000 / t(s): 0.021418
+insercao:10-media: / reg: 100000 / t(s): 0.019922
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021674
+insercao:10-mediana: / reg: 100000 / t(s): 0.082753
+
+Cemente: 10
+insercao:10-random / reg: 100000 / t(s): 0.021607
+insercao:10-media: / reg: 100000 / t(s): 0.019930
+insercao:10-achaPivo: / reg: 100000 / t(s): 0.021360
+insercao:10-mediana: / reg: 100000 / t(s): 0.084769
+

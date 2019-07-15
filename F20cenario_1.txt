@@ -1,0 +1,249 @@
+Cenario1: Comparação do Quicksort - Escolha de Pivô
+Amostragem: 500
+
+Cemente: 1
+recursivo-random / reg: 500 / t(s): 0.000088
+recursivo-media: / reg: 500 / t(s): 0.000058
+recursivo-achaPivo: / reg: 500 / t(s): 0.000064
+recursivo-mediana: / reg: 500 / t(s): 0.000189
+
+Cemente: 2
+recursivo-random / reg: 500 / t(s): 0.000087
+recursivo-media: / reg: 500 / t(s): 0.000057
+recursivo-achaPivo: / reg: 500 / t(s): 0.000064
+recursivo-mediana: / reg: 500 / t(s): 0.000171
+
+Cemente: 3
+recursivo-random / reg: 500 / t(s): 0.000088
+recursivo-media: / reg: 500 / t(s): 0.000057
+recursivo-achaPivo: / reg: 500 / t(s): 0.000064
+recursivo-mediana: / reg: 500 / t(s): 0.000152
+
+Cemente: 4
+recursivo-random / reg: 500 / t(s): 0.000088
+recursivo-media: / reg: 500 / t(s): 0.000058
+recursivo-achaPivo: / reg: 500 / t(s): 0.000063
+recursivo-mediana: / reg: 500 / t(s): 0.000161
+
+Cemente: 5
+recursivo-random / reg: 500 / t(s): 0.000089
+recursivo-media: / reg: 500 / t(s): 0.000057
+recursivo-achaPivo: / reg: 500 / t(s): 0.000064
+recursivo-mediana: / reg: 500 / t(s): 0.000162
+
+Cemente: 6
+recursivo-random / reg: 500 / t(s): 0.000088
+recursivo-media: / reg: 500 / t(s): 0.000057
+recursivo-achaPivo: / reg: 500 / t(s): 0.000063
+recursivo-mediana: / reg: 500 / t(s): 0.000168
+
+Cemente: 7
+recursivo-random / reg: 500 / t(s): 0.000087
+recursivo-media: / reg: 500 / t(s): 0.000059
+recursivo-achaPivo: / reg: 500 / t(s): 0.000062
+recursivo-mediana: / reg: 500 / t(s): 0.000169
+
+Cemente: 8
+recursivo-random / reg: 500 / t(s): 0.000088
+recursivo-media: / reg: 500 / t(s): 0.000057
+recursivo-achaPivo: / reg: 500 / t(s): 0.000063
+recursivo-mediana: / reg: 500 / t(s): 0.000154
+
+Cemente: 9
+recursivo-random / reg: 500 / t(s): 0.000090
+recursivo-media: / reg: 500 / t(s): 0.000056
+recursivo-achaPivo: / reg: 500 / t(s): 0.000064
+recursivo-mediana: / reg: 500 / t(s): 0.000155
+
+Cemente: 10
+recursivo-random / reg: 500 / t(s): 0.000087
+recursivo-media: / reg: 500 / t(s): 0.000056
+recursivo-achaPivo: / reg: 500 / t(s): 0.000062
+recursivo-mediana: / reg: 500 / t(s): 0.000148
+
+Amostragem: 5000
+
+Cemente: 1
+recursivo-random / reg: 5000 / t(s): 0.001018
+recursivo-media: / reg: 5000 / t(s): 0.000803
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000854
+recursivo-mediana: / reg: 5000 / t(s): 0.002419
+
+Cemente: 2
+recursivo-random / reg: 5000 / t(s): 0.001036
+recursivo-media: / reg: 5000 / t(s): 0.000742
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000824
+recursivo-mediana: / reg: 5000 / t(s): 0.002190
+
+Cemente: 3
+recursivo-random / reg: 5000 / t(s): 0.001057
+recursivo-media: / reg: 5000 / t(s): 0.000774
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000867
+recursivo-mediana: / reg: 5000 / t(s): 0.002170
+
+Cemente: 4
+recursivo-random / reg: 5000 / t(s): 0.001074
+recursivo-media: / reg: 5000 / t(s): 0.000765
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000815
+recursivo-mediana: / reg: 5000 / t(s): 0.002629
+
+Cemente: 5
+recursivo-random / reg: 5000 / t(s): 0.001050
+recursivo-media: / reg: 5000 / t(s): 0.000763
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000844
+recursivo-mediana: / reg: 5000 / t(s): 0.002653
+
+Cemente: 6
+recursivo-random / reg: 5000 / t(s): 0.001062
+recursivo-media: / reg: 5000 / t(s): 0.000767
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000861
+recursivo-mediana: / reg: 5000 / t(s): 0.002295
+
+Cemente: 7
+recursivo-random / reg: 5000 / t(s): 0.001068
+recursivo-media: / reg: 5000 / t(s): 0.000769
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000870
+recursivo-mediana: / reg: 5000 / t(s): 0.002585
+
+Cemente: 8
+recursivo-random / reg: 5000 / t(s): 0.001074
+recursivo-media: / reg: 5000 / t(s): 0.000764
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000858
+recursivo-mediana: / reg: 5000 / t(s): 0.002720
+
+Cemente: 9
+recursivo-random / reg: 5000 / t(s): 0.001014
+recursivo-media: / reg: 5000 / t(s): 0.000746
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000814
+recursivo-mediana: / reg: 5000 / t(s): 0.002362
+
+Cemente: 10
+recursivo-random / reg: 5000 / t(s): 0.001045
+recursivo-media: / reg: 5000 / t(s): 0.000762
+recursivo-achaPivo: / reg: 5000 / t(s): 0.000835
+recursivo-mediana: / reg: 5000 / t(s): 0.002672
+
+Amostragem: 50000
+
+Cemente: 1
+recursivo-random / reg: 50000 / t(s): 0.012362
+recursivo-media: / reg: 50000 / t(s): 0.009452
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010476
+recursivo-mediana: / reg: 50000 / t(s): 0.037121
+
+Cemente: 2
+recursivo-random / reg: 50000 / t(s): 0.012221
+recursivo-media: / reg: 50000 / t(s): 0.009497
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010568
+recursivo-mediana: / reg: 50000 / t(s): 0.042025
+
+Cemente: 3
+recursivo-random / reg: 50000 / t(s): 0.012270
+recursivo-media: / reg: 50000 / t(s): 0.009575
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010540
+recursivo-mediana: / reg: 50000 / t(s): 0.046939
+
+Cemente: 4
+recursivo-random / reg: 50000 / t(s): 0.012555
+recursivo-media: / reg: 50000 / t(s): 0.009520
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010438
+recursivo-mediana: / reg: 50000 / t(s): 0.039334
+
+Cemente: 5
+recursivo-random / reg: 50000 / t(s): 0.012144
+recursivo-media: / reg: 50000 / t(s): 0.009535
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010411
+recursivo-mediana: / reg: 50000 / t(s): 0.037119
+
+Cemente: 6
+recursivo-random / reg: 50000 / t(s): 0.012118
+recursivo-media: / reg: 50000 / t(s): 0.009489
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010638
+recursivo-mediana: / reg: 50000 / t(s): 0.041423
+
+Cemente: 7
+recursivo-random / reg: 50000 / t(s): 0.012410
+recursivo-media: / reg: 50000 / t(s): 0.009436
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010619
+recursivo-mediana: / reg: 50000 / t(s): 0.039035
+
+Cemente: 8
+recursivo-random / reg: 50000 / t(s): 0.012567
+recursivo-media: / reg: 50000 / t(s): 0.009465
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010462
+recursivo-mediana: / reg: 50000 / t(s): 0.036723
+
+Cemente: 9
+recursivo-random / reg: 50000 / t(s): 0.012476
+recursivo-media: / reg: 50000 / t(s): 0.009492
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010453
+recursivo-mediana: / reg: 50000 / t(s): 0.042778
+
+Cemente: 10
+recursivo-random / reg: 50000 / t(s): 0.012109
+recursivo-media: / reg: 50000 / t(s): 0.009583
+recursivo-achaPivo: / reg: 50000 / t(s): 0.010548
+recursivo-mediana: / reg: 50000 / t(s): 0.054799
+
+Amostragem: 100000
+
+Cemente: 1
+recursivo-random / reg: 100000 / t(s): 0.025079
+recursivo-media: / reg: 100000 / t(s): 0.020108
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022356
+recursivo-mediana: / reg: 100000 / t(s): 0.089018
+
+Cemente: 2
+recursivo-random / reg: 100000 / t(s): 0.025214
+recursivo-media: / reg: 100000 / t(s): 0.020343
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022004
+recursivo-mediana: / reg: 100000 / t(s): 0.099816
+
+Cemente: 3
+recursivo-random / reg: 100000 / t(s): 0.025568
+recursivo-media: / reg: 100000 / t(s): 0.019880
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022376
+recursivo-mediana: / reg: 100000 / t(s): 0.077664
+
+Cemente: 4
+recursivo-random / reg: 100000 / t(s): 0.025624
+recursivo-media: / reg: 100000 / t(s): 0.019804
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022300
+recursivo-mediana: / reg: 100000 / t(s): 0.090848
+
+Cemente: 5
+recursivo-random / reg: 100000 / t(s): 0.025517
+recursivo-media: / reg: 100000 / t(s): 0.019665
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022233
+recursivo-mediana: / reg: 100000 / t(s): 0.116079
+
+Cemente: 6
+recursivo-random / reg: 100000 / t(s): 0.025468
+recursivo-media: / reg: 100000 / t(s): 0.019738
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022058
+recursivo-mediana: / reg: 100000 / t(s): 0.122238
+
+Cemente: 7
+recursivo-random / reg: 100000 / t(s): 0.025546
+recursivo-media: / reg: 100000 / t(s): 0.019746
+recursivo-achaPivo: / reg: 100000 / t(s): 0.021732
+recursivo-mediana: / reg: 100000 / t(s): 0.099770
+
+Cemente: 8
+recursivo-random / reg: 100000 / t(s): 0.025523
+recursivo-media: / reg: 100000 / t(s): 0.019773
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022259
+recursivo-mediana: / reg: 100000 / t(s): 0.104487
+
+Cemente: 9
+recursivo-random / reg: 100000 / t(s): 0.025598
+recursivo-media: / reg: 100000 / t(s): 0.019831
+recursivo-achaPivo: / reg: 100000 / t(s): 0.022155
+recursivo-mediana: / reg: 100000 / t(s): 0.096111
+
+Cemente: 10
+recursivo-random / reg: 100000 / t(s): 0.025536
+recursivo-media: / reg: 100000 / t(s): 0.020149
+recursivo-achaPivo: / reg: 100000 / t(s): 0.021818
+recursivo-mediana: / reg: 100000 / t(s): 0.106395
+

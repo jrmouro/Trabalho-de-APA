@@ -1,0 +1,6 @@
+set title "QuickSort/Insertion - 0.1 Misturado" 
+set xlabel "amostra"
+set ylabel "tempo(s)"
+set grid
+plot "F01cenario_plot1.txt" using 1:2 title 'Q-Random' with lines,"F01cenario_plot1.txt" using 1:3 title 'Q-Média' with lines,"F01cenario_plot1.txt" using 1:4 title 'Q-Achado' with lines,"F01cenario_plot1.txt" using 1:5 title 'Q-Mediana' with lines,"F01cenario_plot2.txt" using 1:2 title 'I-Random' with lines,"F01cenario_plot2.txt" using 1:3 title 'I-Média' with lines,"F01cenario_plot2.txt" using 1:4 title 'I-Achado' with lines,"F01cenario_plot2.txt" using 1:5 title 'I-Mediana' with lines
+
